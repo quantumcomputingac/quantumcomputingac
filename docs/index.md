@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Quantum Computing Academy
 
 You can use the [editor on GitHub](https://github.com/quantumcomputingac/quantumcomputingac/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
