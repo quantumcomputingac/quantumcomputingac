@@ -6,8 +6,8 @@
 
 ## Contact Info
 
-> Website: https://QuantumComputingAcademy.io  
-> Email: contact@quantumcomputingacademy.io
+> Website: <https://QuantumComputingAcademy.io>  
+> Email: <contact@quantumcomputingacademy.io>
 
 <!--
 You can use the [editor on GitHub](https://github.com/quantumcomputingac/quantumcomputingac/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
