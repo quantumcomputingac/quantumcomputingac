@@ -4,11 +4,10 @@
 
 ----
 
-## Contact Info ![Twitter Follow](https://img.shields.io/twitter/follow/QComputingIO?label=%40QComputingIO&style=social)
-
-> **Website:** <a href="https://quantumcomputingacademy.io">QuantumComputingAcademy.io</a>    
-> **Email:** <a href="mailto:contact@quantumcomputingacademy.io?body=Hi%20QC%20Team%2C%0A%0A" title="contact@quantumcomputingacademy.io">contact@quantumcomputingacademy.io</a>  
-> **Phone:** <a href="tel:91-824-9410-824"><img src="https://i.postimg.cc/G3gcDsKk/flag-india-1f1ee-1f1f3.png" width="20"></a> <a href="tel:+918249410824">+91-824-(9410)-824</a>  
+## Contact Info <a target="_blank" href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EQComputingIO&region=follow_link&screen_name=QComputingIO"><img alt="Twitter Follow Quantum Computing Academy (QComputingIO)" src="https://img.shields.io/twitter/follow/QComputingIO?style=social"></a>
+> **Website:** <a href="https://quantumcomputingacademy.io" target="_blank">QuantumComputingAcademy.io</a>    
+> **Email:** <a href="mailto:contact@quantumcomputingacademy.io?body=Hi%20QC%20Team%2C%0A%0A" title="contact@quantumcomputingacademy.io" target="_blank">contact@quantumcomputingacademy.io</a>  
+> **Phone:** <a href="tel:91-824-9410-824" target="_blank"><img src="https://i.postimg.cc/G3gcDsKk/flag-india-1f1ee-1f1f3.png" width="20"> +91-824-(9410)-824</a>  
 > **Whatsapp:** <a href="https://wa.link/m7vp3i">Chat with QCA Team</a>  
 > <a href="https://wa.link/m7vp3i"><img width="100" alt="Chat with Quantum Computing Academy Instructor" src="https://i.postimg.cc/4yLjhVTn/wa-link-m7vp3i.png"/></a>
 
