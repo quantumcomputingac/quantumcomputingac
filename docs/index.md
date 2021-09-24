@@ -4,9 +4,9 @@
 
 ----
 
-## Contact Info
+## Contact Info ![Twitter Follow](https://img.shields.io/twitter/follow/QComputingIO?label=%40QComputingIO&style=social)
 
-> **Website:** <a href="https://quantumcomputingacademy.io">https://QuantumComputingAcademy.io</a>  
+> **Website:** <a href="https://quantumcomputingacademy.io">QuantumComputingAcademy.io</a>    
 > **Email:** <a href="mailto:contact@quantumcomputingacademy.io?body=Hi%20QC%20Team%2C%0A%0A" title="contact@quantumcomputingacademy.io">contact@quantumcomputingacademy.io</a>  
 > **Phone:** <a href="tel:91-824-9410-824"><img src="https://i.postimg.cc/G3gcDsKk/flag-india-1f1ee-1f1f3.png" width="20"></a> <a href="tel:+918249410824">+91-824-(9410)-824</a>  
 > **Whatsapp:** <a href="https://wa.link/m7vp3i">Chat with QCA Team</a>  
