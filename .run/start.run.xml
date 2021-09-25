@@ -3,7 +3,11 @@
     <package-json value="$PROJECT_DIR$/package.json" />
     <command value="start" />
     <node-interpreter value="project" />
-    <envs />
+    <envs>
+      <env name="REACT_EDITOR" value="webstorm.exe" />
+      <env name="TSC_COMPILE_ON_ERROR" value="true" />
+      <env name="ESLINT_NO_DEV_ERRORS" value="true" />
+    </envs>
     <method v="2" />
   </configuration>
 </component>
