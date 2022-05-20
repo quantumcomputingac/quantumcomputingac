@@ -2,6 +2,8 @@
 
 <div align="center"><a id="qc-artwork" href="https://quantumcomputingacademy.io" target="_blank"><img src="https://i.postimg.cc/bwvy1Yb2/YT-Channel-Art.gif" alt="Quantum Computing Academy Artwork" /></a></div>
 
+## I would like to know more => https://forms.gle/WejDaCSAkNAa96hH7
+
 ----
 
 ## Contact Info <a target="_blank" href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fdeveloper.twitter.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EQComputingIO&region=follow_link&screen_name=QComputingIO"><img alt="Twitter Follow Quantum Computing Academy (QComputingIO)" src="https://img.shields.io/twitter/follow/QComputingIO?style=social"></a>
