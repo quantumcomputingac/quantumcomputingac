@@ -2,7 +2,7 @@
 
 <div align="center"><a id="qc-artwork" href="https://quantumcomputingacademy.io" target="_blank"><img src="https://i.postimg.cc/bwvy1Yb2/YT-Channel-Art.gif" alt="Quantum Computing Academy Artwork" /></a></div>
 
-## I would like to know more => https://forms.gle/WejDaCSAkNAa96hH7
+## I would like to know more => <https://forms.gle/WejDaCSAkNAa96hH7>
 
 ----
 
